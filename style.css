@@ -91,8 +91,8 @@ nav a {
 
 nav a:hover {
     
-    animation: .8s multicolor;
-    color:#d3cccc;
+    animation: .5s multicolor;
+    color:#725fde;
     background-color:rgba(99, 99, 99, 0.2);
 }
 
@@ -112,11 +112,11 @@ nav a:active {
     0% {
         color: rgb(255, 255, 255);
     }
-    25% {
-        color: #b551ee;
+    50% {
+        color: #a200ff;
     }
     100% {
-        color: #d3cccc;
+        color: #725fde;
     }
 }
 
@@ -130,6 +130,7 @@ nav a:active {
     top:30px;
     left: 30px;
     cursor: pointer;
+    margin-top: 10px;
     
 }
 
@@ -159,13 +160,13 @@ nav a:active {
 
 
 /*Transition*/
-
-@media screen and (max-width: 530px){
+/*! 350 for deployment, 550 for testing*/
+@media screen and (max-width: 550px){
     
     nav ul{
         
         padding-top:0px;
-        padding-left: 5px;
+        padding-left: 0px;
         width: 20px;
         text-align:left;
         display: flex;
