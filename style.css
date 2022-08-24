@@ -92,7 +92,7 @@ nav a {
 nav a:hover {
     
     animation: .8s multicolor;
-    color:#d3cccc;
+    color:#725fde;
     background-color:rgba(99, 99, 99, 0.2);
 }
 
@@ -113,10 +113,10 @@ nav a:active {
         color: rgb(255, 255, 255);
     }
     25% {
-        color: #b551ee;
+        color: #a200ff;
     }
     100% {
-        color: #d3cccc;
+        color: #725fde;
     }
 }
 
