@@ -1,11 +1,11 @@
-* {
-    /*border-style:solid;*/
-}
+/* {
+    border-style:solid;
+}*/
 
 body {
     overflow: auto;
     margin:0px;
-    /*background-color: #2C2F33;*/
+    background-color: #2C2F33;
     
 }
 
@@ -64,9 +64,10 @@ nav a {
 .logo-image {
     position:absolute;
     width: 85px;
-    height: 58px;
-    left: 9px;
+    height: 68px;
+    left: 15px;
     top: 15px;
+    bottom:10px;
     
     display: flex;
     justify-content: center;
@@ -76,13 +77,16 @@ nav a {
 .logo-image img {
     flex-shrink: 0;
     min-width: 100%;
-    min-height: 100%;
+    max-height:48px;
+    
     
 }
 
 .logo-image a {
     padding:5px;
+    padding-right: 10px;;
     border-radius: 10px;
+
 }
 
 /*Logo Image*/
@@ -215,5 +219,19 @@ nav a:active {
 /*Transition*/
 
 .main{
-    text-align:center;
+    text-align:right;
+    padding-top:100px;
+}
+
+.img {
+    width:100%;
+    max-width:888px;
+    
+    height:581px;
+    background-image: url('Assets/BG.png');
+    align-content:center;
+}
+
+.text {
+    color:white;
 }
