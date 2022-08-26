@@ -5,7 +5,7 @@
 body {
     overflow: auto;
     margin:0px;
-    background-color: #2C2F33;
+    background-color: #282c34;
     
 }
 
@@ -83,8 +83,7 @@ nav a {
 }
 
 .logo-image a {
-    padding:5px;
-    padding-right: 10px;;
+    padding:10px;
     border-radius: 10px;
 
 }
@@ -120,7 +119,7 @@ nav a:active {
         color: #a200ff;
     }
     100% {
-        color: #725fde;
+        color: rgb(114, 95, 222);
     }
 }
 
@@ -218,20 +217,99 @@ nav a:active {
 }
 /*Transition*/
 
+.spacer {
+    height:65px;
+    width:100%;
+    padding-top:30px;
+    margin-top: 0px;
+    display:block;
+}
+
 .main{
     text-align:right;
-    padding-top:100px;
+    width:100%;
+    align-items: center;
+    height:auto;
 }
 
 .img {
-    width:100%;
-    max-width:888px;
+
+    background-repeat: no-repeat;
     
-    height:581px;
-    background-image: url('Assets/BG.png');
-    align-content:center;
+    min-height:581px;
+    width: 880px;
+    max-width: 100%;
+    overflow-x: hidden;
+    background-image: url('Assets/BG2.png');
+
+}
+
+@media screen and (min-width: 880px){
+    .img {
+        width:100%;
+
+        background-size: cover;
+        height:auto;
+    }
+    
 }
 
 .text {
+    padding-top: 190px;
     color:white;
+    width:80%;
+
+}
+
+.text h1 {
+    font-size: 50pt;
+    margin-bottom: 0px;
+    margin-top:0px;
+    padding-right:10px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ffffff0f;
+}
+
+.text h1:hover {
+    animation: 1s shade;
+    background-color: rgba(114, 95, 222, 0.358);
+}
+
+@keyframes shade {
+    0% {
+        background-color: #ffffff0f;
+    }
+    100% {
+        background-color: rgba(114, 95, 222, 0.358);
+    }
+}
+
+.text h3{
+    padding-top:8px;
+    margin-top:0px;
+    padding-right:10px;
+    padding-left:10px;
+    padding-bottom:5px;
+    font-family: 'Oswald', sans-serif;
+    background-color: #ffffff00;
+    
+}
+
+
+.largeView {
+    display:inline-block;
+}
+
+.smallView {
+    display:none;
+}
+
+@media screen and (max-width: 550px){
+    .largeView {
+        display:none;
+    }
+    
+    .smallView {
+        display:inline-block;
+    }
 }
