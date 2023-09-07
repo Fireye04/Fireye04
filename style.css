@@ -23,3 +23,12 @@ h1,h2,h3{
         color:#8e96f0
     }
 }
+
+blockquote {
+    border-left: 10px solid #1c2532;
+    margin: 1.5em 0px;
+    padding: 0.5em 20px;
+  }
+  blockquote p {
+    display: inline;
+  }
