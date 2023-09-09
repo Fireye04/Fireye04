@@ -33,3 +33,12 @@ blockquote {
   blockquote p {
     display: inline;
   }
+
+.indent {
+    margin-left: 30px;
+}
+
+h3 {
+    padding-bottom:5px;
+    border-bottom: 2px rgb(255, 255, 255) solid;
+}
