@@ -42,3 +42,7 @@ h3 {
     padding-bottom:5px;
     border-bottom: 3px #c9d1d9 solid;
 }
+
+ol li{
+    padding-bottom: 30px;
+}
