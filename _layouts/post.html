@@ -1,0 +1,32 @@
+---
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="test">
+    <link rel="stylesheet" href="../../../style.css">
+    <link rel="icon" type="image/x-icon" href="../../../Assets/favicon.ico">
+  </head>
+  <body>
+    <h1 class="posthead">{{ page.title }}</h1>
+    <h4 class="posthead indent">{{page.description}}</h4>
+    <p class="posthead indent"><em>Published {{ page.date | date_to_string: "ordinal", "US" }}</em></p>
+
+    <hr \>
+
+    <br>
+
+    <section>
+      <p>{{ content }}</p>
+    </section>
+
+    <h2><center><a href="../../../index.html">Home Sweet Home</a></center></h2>
+        
+    <h3><center><a href="../../../Pages/Blog.html">To the Blog!</a></center></h3>
+
+  </body>
+</html>
