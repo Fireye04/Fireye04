@@ -51,3 +51,27 @@ ol li{
     margin-bottom: 10px;
     margin-top: 0px;
 }
+
+
+@media (max-width: 635px) {
+
+    .itch-iframe {
+        display:none;
+    }
+
+    .itch-button {
+        display:block;
+    }
+}
+
+@media (min-width: 635px) {
+
+    .itch-iframe {
+        display:block;
+    }
+
+    .itch-button {
+        display:none;
+    }
+}
+
