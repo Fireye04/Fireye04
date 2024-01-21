@@ -19,7 +19,8 @@ jobs:
           committer: GitHub <noreply@github.com>
           author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           signoff: false
-          branch: example-patches
+          branch: prod
+          base: main
           delete-branch: false
           title: 'Update prod!'
           body: |
