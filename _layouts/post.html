@@ -14,20 +14,25 @@
   <body>
     <h1 class="posthead">{{ page.title }}</h1>
     <h4 class="posthead indent">{{page.description}}</h4>
+    {% assign wordcount = page.content |  strip_html | split: ' ' | size %}
+    <p class="posthead indent">Word Count: {{wordcount}}</p>
     <p class="posthead indent"><em>Published {{ page.date | date_to_string: "ordinal", "US" }} {% if page.update %} | Updated {{page.update}} {% endif %}</em></p>
-
     <hr \>
 
     <section>
-      {% if content.size > 100 %}
+
+      {% if wordcount > 500 %}
         <h2><center><a href="../../../index.html">Home Sweet Home</a></center></h2>
+        <h3><center><a href="../../../Pages/Blog.html">To the Blog!</a></center></h3>
+        <hr \>
       {% endif %}
 
       <p>{{ content }}</p>
     </section>
 
-    <h2><center><a href="../index.html">Home Sweet Home</a>{% if content.size > 100 %}<br><small><small>(But at the bottom of the page this time)</small></small>{% endif %}</center></h2>
-    
+    <hr \>
+
+    <h2><center><a href="../../../index.html">Home Sweet Home</a>{% if wordcount > 500 %}<br><small><small>(But at the bottom of the page this time)</small></small>{% endif %}</center></h2>
         
     <h3><center><a href="../../../Pages/Blog.html">To the Blog!</a></center></h3>
 
