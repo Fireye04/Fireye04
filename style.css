@@ -1,9 +1,12 @@
+
+
 body{
     max-width:650px;
     margin:40px auto;
     padding:0 10px;
     font:18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    color:#444
+    color:#444;
+    
 }
 
 
@@ -52,6 +55,7 @@ ol li{
     margin-top: 0px;
 }
 
+/*########### ITCH IFRAMES #############*/
 
 @media (max-width: 635px) {
 
@@ -75,3 +79,47 @@ ol li{
     }
 }
 
+/*########### ITCH IFRAMES #############*/
+
+
+
+/*########### LINKS #############*/
+
+.links {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.link-bg {
+    margin:0px;
+    padding:0px;
+}
+
+.link-img {
+    margin:0px;
+    padding:20px 20px 10px 20px;
+    width:80px;
+    transition:.2s;
+}
+
+.link-img:hover {
+    width:90px;
+    filter:brightness(90%);
+}
+
+@media (max-width: 900px) {
+
+    .links {
+        display:none;
+    }
+}
+
+@media (min-width: 900px) {
+
+    .links {
+        display:block;
+    }
+}
+
+/*########### LINKS #############*/
