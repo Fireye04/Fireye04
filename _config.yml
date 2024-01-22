@@ -1,4 +1,4 @@
 
 title: "Kai's Stupid Website"
 plugins: ["jekyll-toc"]
-baseurl: "/Fireye04"
+baseurl: ""
