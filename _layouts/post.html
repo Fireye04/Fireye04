@@ -19,6 +19,8 @@
     <p class="posthead indent"><em>Published {{ page.date | date_to_string: "ordinal", "US" }} {% if page.update %} | Updated {{page.update}} {% endif %}</em></p>
     <hr \>
 
+    {% include kofi.html %}
+
     <section>
 
       {% if wordcount > 500 %}
