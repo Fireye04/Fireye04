@@ -2,6 +2,7 @@
 layout: post
 title: "Kai's Awesome Session 0 Checklist!"
 description: "A guide on how I run session 0's in TTRPGs"
+update: "Jan 21st, 2024"
 ---
 
 1. **Favorite aspect of TTRPGs.** What do they like about TTRPGs? What kind of things do they want to happen? Is there any "cool moment" that they really wanna have at some point? Usually you'll get things like "world building" or "puzzles" or "social subterfuge", but it really depends on the players. This really helps you set the tone for the campaign and how you plan it.
