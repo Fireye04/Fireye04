@@ -19,12 +19,14 @@
     <hr \>
 
     <section>
-      <h2><center><a href="../../../index.html">Home Sweet Home</a></center></h2>
+      {% if content.size > 100 %}
+        <h2><center><a href="../../../index.html">Home Sweet Home</a></center></h2>
+      {% endif %}
 
       <p>{{ content }}</p>
     </section>
 
-    <h2><center><a href="../index.html">Home Sweet Home</a><br><small><small>(But at the bottom of the page this time)</small></small></center></h2>
+    <h2><center><a href="../index.html">Home Sweet Home</a>{% if content.size > 100 %}<br><small><small>(But at the bottom of the page this time)</small></small>{% endif %}</center></h2>
     
         
     <h3><center><a href="../../../Pages/Blog.html">To the Blog!</a></center></h3>
