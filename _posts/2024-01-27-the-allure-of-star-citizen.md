@@ -55,11 +55,11 @@ All of this stupidity that you get up to solo gets punched up to an 11 when you'
 
 Having backup also enhances loop gameplay, as now you can have someone in a cargo ship move the salvage from your vulture into their ship, allowing longer salvage runs and higher profits. You can haul cargo in groups to deter piracy, as a squad of hauling ships is significantly more intimidating than just one. 
 
-Bottom line, If you get into this game make sure you either cyberbully your friends into playing with you, or just straight up join an org. In terms of orgs, there are plenty of options out there ([here are the listings](https://robertsspaceindustries.com/community/orgs/listing)) and [here's mine](https://discord.gg/75wThXRSPB). Whatever you do, play this game with other people! 
+Bottom line, If you get into this game make sure you either cyberbully your friends into playing with you, or just straight up join an org. In terms of orgs, there are plenty of options out there (<a href="https://robertsspaceindustries.com/community/orgs/listing" target="_blank">here are the listings</a>) and <a href="https://discord.gg/75wThXRSPB" target="_blank">here's mine</a>. Whatever you do, play this game with other people! 
 
 ### Ships
 
-There are a lot of ships (you can check out a comprehensive *and* descriptive list [here](https://starcitizen.tools/Ships)) But to summarize, ships are the bread and butter of star citizen. As of right now, we don't have base building yet, so ships are essentially the sole late game toys that you can throw your hard earned in-game currency at. Predominantly, ships are seperated by two main distinctions: Size and Function. Size is primarily a function of number of crew members that the ship can accomodate (A stat that is usually lower than officially stated). Function is usually any specializations that the ship has that makes it better at or allows it to do a certain gameplay loop. More granular listings can be found at the site I provided above. In terms of bigger and more expensive ships, though, you don't need to get something huge to have a good time. Most of the time, large expensive ships require a crew and are close to inoperable solo. Small ships like the Drake Cutter and the Aegis Avenger Titan are great solo; Ships like the Drake Cutlass and the Misc freelancer are the perfect balance between flyable solo but better with friends; and Huge ships like the RSI Constellation and the Anvil Carrack are borderline unplayable solo. I'd encourage those who are curious to look around at what the game offers because it's truly beautiful what CIG have been able to make here.
+There are a lot of ships (you can check out a comprehensive *and* descriptive list <a href="https://starcitizen.tools/Ships" target="_blank">here</a>) But to summarize, ships are the bread and butter of star citizen. As of right now, we don't have base building yet, so ships are essentially the sole late game toys that you can throw your hard earned in-game currency at. Predominantly, ships are seperated by two main distinctions: Size and Function. Size is primarily a function of number of crew members that the ship can accomodate (A stat that is usually lower than officially stated). Function is usually any specializations that the ship has that makes it better at or allows it to do a certain gameplay loop. More granular listings can be found at the site I provided above. In terms of bigger and more expensive ships, though, you don't need to get something huge to have a good time. Most of the time, large expensive ships require a crew and are close to inoperable solo. Small ships like the Drake Cutter and the Aegis Avenger Titan are great solo; Ships like the Drake Cutlass and the Misc freelancer are the perfect balance between flyable solo but better with friends; and Huge ships like the RSI Constellation and the Anvil Carrack are borderline unplayable solo. I'd encourage those who are curious to look around at what the game offers because it's truly beautiful what CIG have been able to make here.
 
 All you really need to know about ships is that they're the game's backbone. You can't do anything in Star citizen without a ship. Wanna mine? Need a ship. Wanna salvage? Need a ship. Wanna haul? Need a ship. You get the idea. To be clear, there are also non-ship related activities, but you're gonna need a ship to get to them. 
 
@@ -77,7 +77,7 @@ Dear god there are so many bugs. Ask any star citizen player their favorite bug 
 
 ### Performance
 
-The game needs a good PC to run. I've put together a list with the minimum specs that I'd recommend for running this thing enjoyably __at 1080p resolution__. I've taken some tips from the public facing [telemetry site](https://robertsspaceindustries.com/telemetry) so feel free to check that out as well for more detailed data. At the time of writing, most of these reccomendations are above base spec, aiming for an ideal experience, so if you're a bit below spec, you should be fine depending how below spec you are and in which areas.
+The game needs a good PC to run. I've put together a list with the minimum specs that I'd recommend for running this thing enjoyably __at 1080p resolution__. I've taken some tips from the public facing <a href="https://robertsspaceindustries.com/telemetry" target="_blank">telemetry site</a> so feel free to check that out as well for more detailed data. At the time of writing, most of these reccomendations are above base spec, aiming for an ideal experience, so if you're a bit below spec, you should be fine depending how below spec you are and in which areas.
 
 - Ryzen 5 5600X/ i5 12600KF
 	- SC is a very CPU hungry game. If you have a better GPU than CPU, as many gamers do, then you will likely be CPU bottlenecked.
@@ -118,7 +118,7 @@ Every ship that can be purchased with real money is currently, or will eventuall
 
 ### The Pledge store. 
 
-The [pledge store](https://robertsspaceindustries.com/pledge) is the digital retailer of star citizen, selling game packages, ships, in game items, and even physical merch for real life money. You can also purchase upgrades between ships and only pay the difference between the two. The main focus though, is ships.  A small ship will run you ~60-80 dollars, an medium ship that can be well run solo can head up into the $120-130 range, and bigger ships just scale from there. A sizable multicrew ship can cost you upwards of $300, a huge ship can cost 500 or more, and capital class ships are comfortably over the ghastly $1000 mark.
+The <a href="https://robertsspaceindustries.com/pledge" target="_blank">pledge store</a> is the digital retailer of star citizen, selling game packages, ships, in game items, and even physical merch for real life money. You can also purchase upgrades between ships and only pay the difference between the two. The main focus though, is ships.  A small ship will run you ~60-80 dollars, an medium ship that can be well run solo can head up into the $120-130 range, and bigger ships just scale from there. A sizable multicrew ship can cost you upwards of $300, a huge ship can cost 500 or more, and capital class ships are comfortably over the ghastly $1000 mark.
 
 ### What the F*@k?!
 
@@ -162,20 +162,20 @@ First off, Welcome to the verse! Here's a quick intro to the game so you can hav
 ### Steps
 
 1. First off you're either going to head to one of webpages, depending on what ship you want to start with. 
-	1. Anyone who just wants the game go [here](https://robertsspaceindustries.com/star-citizen/play-now). I reccommend this option over the other one, as *you can always upgrade your ship if you wish*. 
-	2. If you insist on getting a better ship to boot, go [here](https://robertsspaceindustries.com/store/pledge/browse/game-packages/?search=&sort=price&direction=asc) instead.
+	1. Anyone who just wants the game go <a href="https://robertsspaceindustries.com/star-citizen/play-now" target="_blank">here</a>. I fully reccommend this option over the other one, as *you can always upgrade your ship if you wish*. 
+	2. If you insist on getting a better ship to boot, go <a href="https://robertsspaceindustries.com/store/pledge/browse/game-packages/?search=&sort=price&direction=asc" target="_blank">here</a> instead.
 	> It also might be worth snooping around the 2nd link to see if there are any good sales going on. I got my first ship, the drake cutter, during a halloween sale where it sold me the ship & starter package for only $45 and threw in a green paint job as well. Since there have been a few sales, lowering starter packs to $40, so it's always a good idea to be on the lookout!
 2. Next, You're going to choose which ship you want to start with.
 	1. If you went with option 1 in the step above, you'll be choosing between the RSI Aurora MR and the CO Mustang Alpha. The Aurora is better equipped for general use with 3 SCU of storage, and has a small walkable interior with a bed, (which allows you to bed-log while in space). The Mustang can only really do ship combat and has no interior, bed, or storage. It is, however, significantly better at combat than the aurora is. 
 	2. If you've opted for a better ship, the viable starters other than the Aurora and the Mustang would be, in order of ascending price: The Drake Cutter, The Aegis Avenger Titan, and the Nomad. If you're a sucker for alien tech, Check out the Syulen as well. I wouldn't reccommend anything over the nomad unless you really want a solid multicrew vessel. If that's something you want, pick between the drake cutlass and the misc freelancer. I, again, **don't reccommend this**, as you can buy ships in game with ingame credits or you can upgrade your starter to another ship later on. 
 3. Now it's gonna ask you to sign in. Press "Enlist Now" to create an account. 
-	> Here is where you can put in referral codes as well, so make sure to find one and plug it in. These will give you additional starting credits (both in the alpha and on full release) and if there's an event on, potentially some other goodies. The most recent couple I can recall are a full set of pretty armor and matching weapons, and a literal CO Hoverquad with a skin & <abbr title="Lifetime Insurance">LTI</abbr>. I'd reccommend asking a friend who already plays (if you have one) for theirs, then looking elsewhere for one. Here's mine if you feel so inclined: [STAR-C6PX-673X](https://robertsspaceindustries.com/enlist?referral=STAR-C6PX-673X). Regardless of whose it is, make sure put one in there!
-4. Pay for the package and download the launcher. If for some reason you can't find it, the link to download it is [here](https://robertsspaceindustries.com/download). This will download the launcher and not the actual game, so make sure to allocate that 100GB of SSD space and buckle up.
+	> Here is where you can put in referral codes as well, so make sure to find one and plug it in. These will give you additional starting credits (both in the alpha and on full release) and if there's an event on, potentially some other goodies. The most recent couple I can recall are a full set of pretty armor and matching weapons, and a literal CO Hoverquad with a skin & <abbr title="Lifetime Insurance">LTI</abbr>. I'd reccommend asking a friend who already plays (if you have one) for theirs, then looking elsewhere for one. Here's mine if you feel so inclined: <a href="https://robertsspaceindustries.com/enlist?referral=STAR-C6PX-673X" target="_blank">STAR-C6PX-673X</a>. Regardless of whose it is, make sure put one in there!
+4. Pay for the package and download the launcher. If for some reason you can't find it, the link to download it is <a href="https://robertsspaceindustries.com/download/" target="_blank">here</a>. This will download the launcher and not the actual game, so make sure to allocate that 100GB of SSD space and buckle up.
 5. While it's downloading, find yourself an org! As per my advice above, here are a couple links! 
-	1. [The org Listings](https://robertsspaceindustries.com/community/orgs/listing)
-	2. [My Org](https://robertsspaceindustries.com/orgs/WFCP) and [our Discord](https://discord.gg/75wThXRSPB)
+	1. <a href="https://robertsspaceindustries.com/community/orgs/listing" target="_blank">The org Listings</a>
+	2. <a href="https://robertsspaceindustries.com/orgs/WFCP" target="_blank">My Org</a> and <a href="https://discord.gg/75wThXRSPB" target="_blank">our Discord</a>
 	> Alternatively, feel free to google relevant orgs and skip the listings. I actually found my first org through googling!
-6. If at all possible, once the game is done downloading, get someone in your org to show you around, or find a youtube video to do so. Here's the one [I used](https://www.youtube.com/watch?v=bNgkQCIEPG4) but **it is a much better experience if you're doing it with other players so I encourage you to find an org and ask someone there to show you the ropes! 
+6. If at all possible, once the game is done downloading, get someone in your org to show you around, or find a youtube video to do so. Here's the one <a href="https://www.youtube.com/watch?v=bNgkQCIEPG4" target="_blank">I used</a> but **it is a much better experience if you're doing it with other players** so I encourage you to find an org and ask someone there to show you the ropes!
 	> If you can't find any that suit your interests, please join my org's discord and ask for a quick intro! We welcome visitors and prospective org members alike, and would be more than happy to give you an intro to the game. 
 
 And that's it for onboarding! There's a lot more to this game that I plan to go over in future blog posts, however this is all you need to get started learning the ropes. To sign off, I'll leave a bunch of other resources here at the bottom. Thank you so much for reading; I really appreciate it.
@@ -187,44 +187,43 @@ Here are just a few more things i'm putting here at the end that might be helpfu
 ### Resources
 
 
-
-- Game wiki: <a>https://starcitizen.tools/</a>
+- Game wiki: <a href="https://starcitizen.tools/" target="_blank">https://starcitizen.tools/</a>
 
 	- Very helpful, especially with ship research. This is definitley one of my go to sites, that I wholeheartedly reccommend. 
 
-- Ship loadout planner: https://www.erkul.games/live/calculator
+- Ship loadout planner: <a href="https://www.erkul.games/live/calculator" target="_blank">https://www.erkul.games/live/calculator</a>
 
 	- If you want to see how you can deck out a ship to maximize DPS or just see what quantum drives are the fastest and where you can get them, this site is a godsend. I have had issues with item locations being outdated, though, so keep that in mind.
 
-- Armory loadout planner: https://armory.thespacecoder.space/
+- Armory loadout planner: <a href="https://armory.thespacecoder.space/" target="_blank">https://armory.thespacecoder.space/</a>
 
 	- Allows you to look up armor and weapons' stats and locations
 
-- Item Finder: https://finder.cstone.space/
+- Item Finder: <a href="https://finder.cstone.space/" target="_blank">https://finder.cstone.space/</a>
 
 	- Need to know where you can get an item or a ship? This here is your place.
 
-- Commodity Prices: https://uexcorp.space/
+- Commodity Prices: <a href="https://uexcorp.space/" target="_blank">https://uexcorp.space/</a>
 
 	- The most up to date statistics on commodity prices for hauling. Also has a bunch of other cool features.
 
-- Trading tools: https://sc-trade.tools/home
+- Trading tools: <a href="https://sc-trade.tools/home" target="_blank">https://sc-trade.tools/home</a>
 
 	- More useful calculators than uexcorp, but not as updated. 
 
-- More Trading tools: https://gallog.co/
+- More Trading tools: <a href="https://gallog.co/" target="_blank">https://gallog.co/</a>
 
 	- If the other 2 don't spark joy, here's another resource for similar functionality
 
-- SC tour guide: https://verseguide.com/
+- SC tour guide: <a href="https://verseguide.com/" target="_blank">https://verseguide.com/</a>
 
 	- Helpful tool to familiarize yourself with locations
 
-- Fleet builder: https://hangar.link/fleet/canvas
+- Fleet builder: <a href="https://hangar.link/fleet/canvas" target="_blank">https://hangar.link/fleet/canvas</a>
 
 	- Allows you to make cool graphics of ships. I love this thing.
 
-- Ship stats: https://www.spviewer.eu/
+- Ship stats: <a href="https://www.spviewer.eu/" target="_blank">https://www.spviewer.eu/</a>
 
 	- Similar to erkul, but less for customizing and more for preformance analytics
 
@@ -242,6 +241,6 @@ While these involvments help contextualize this article better, I try my utmost 
 
 ### Support me
 
-If you think this post was helpful and you want to support me doing more stuff like this, you can find a link to my ko-fi [here](https://ko-fi.com/fireye). Every donation, regardless of amount, helps my work immensely and will likely go towards buying more coffee, which is essential in the creation of things like this. Thanks so much again for reading, have a great day, and I hope to see you in the verse.
+If you think this post was helpful and you want to support me doing more stuff like this, you can find a link to my ko-fi <a href="https://ko-fi.com/fireye/" target="_blank">here</a>. Every donation, regardless of amount, helps my work immensely and will likely go towards buying more coffee, which is essential in the creation of things like this. Thanks so much again for reading, have a great day, and I hope to see you in the verse.
 
 ~ Kai
