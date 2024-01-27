@@ -138,27 +138,20 @@ First of all, there isn't exatly one main target audience, (barring game develop
 
 Here's a handy dandy flowchart to help you decide if you should get into it or not. 
 
-```
-Do you think there are cool things that you'd like to experience in Star citizen? 
- |    |
-Yes   No
- |    |
- |    L  Don't buy it
- |
- L  Are you willing to live with the downsides?
-    |     |
-	No   Yes
-	|     |
-	|     L Buy it
-	|
-	L  Do you have friends that you'd like to play it with or are you planning on joining an org and playing with them?
-	    |     |
-		No   Yes
-		|     |
-		|     L  Consider buying it
-		|
-		L  Wait until it's in a better state.
-```
+>Do you think there are cool things that you'd like to experience in Star citizen? 
+>- No?
+>	- Don't buy it.
+>- Yes?
+>	- Are you willing to live with the downsides?
+>		- Yes
+>			- Buy it.
+>		- No
+>			- Do you have friends that you'd like to play it with or are you planning on joining an org and playing with them?
+>				- Yes 
+>					- Consider buying it
+>				- No
+>					- Wait until it's in a better state.
+
 
 Those of you have decided to wait or not buy it, I'm glad I was able to help you make a better informed deicision. Those who have decided to buy it, I have a few tips below on how to get the best out of the onboarding experience.
 
@@ -169,33 +162,22 @@ First off, Welcome to the verse! Here's a quick intro to the game so you can hav
 ### Steps
 
 1. First off you're either going to head to one of webpages, depending on what ship you want to start with. 
-
 	1. Anyone who just wants the game go [here](https://robertsspaceindustries.com/star-citizen/play-now). I reccommend this option over the other one, as *you can always upgrade your ship if you wish*. 
-
 	2. If you insist on getting a better ship to boot, go [here](https://robertsspaceindustries.com/store/pledge/browse/game-packages/?search=&sort=price&direction=asc) instead.
 
 	> It also might be worth snooping around the 2nd link to see if there are any good sales going on. I got my first ship, the drake cutter, during a halloween sale where it sold me the ship & starter package for only $45 and threw in a green paint job as well. Since there have been a few sales, lowering starter packs to $40, so it's always a good idea to be on the lookout!
-
 2. Next, You're going to choose which ship you want to start with.
-
 	1. If you went with option 1 in the step above, you'll be choosing between the RSI Aurora MR and the CO Mustang Alpha. The Aurora is better equipped for general use with 3 SCU of storage, and has a small walkable interior with a bed, (which allows you to bed-log while in space). The Mustang can only really do ship combat and has no interior, bed, or storage. It is, however, significantly better at combat than the aurora is. 
-
 	2. If you've opted for a better ship, the viable starters other than the Aurora and the Mustang would be, in order of ascending price: The Drake Cutter, The Aegis Avenger Titan, and the Nomad. If you're a sucker for alien tech, Check out the Syulen as well. I wouldn't reccommend anything over the nomad unless you really want a solid multicrew vessel. If that's something you want, pick between the drake cutlass and the misc freelancer. I, again, **don't reccommend this**, as you can buy ships in game with ingame credits or you can upgrade your starter to another ship later on. 
-
 3. Now it's gonna ask you to sign in. Press "Enlist Now" to create an account. 
 
 	> Here is where you can put in referral codes as well, so make sure to find one and plug it in. These will give you additional starting credits (both in the alpha and on full release) and if there's an event on, potentially some other goodies. The most recent couple I can recall are a full set of pretty armor and matching weapons, and a literal CO Hoverquad with a skin & <abbr title="Lifetime Insurance">LTI</abbr>. I'd reccommend asking a friend who already plays (if you have one) for theirs, then looking elsewhere for one. Here's mine if you feel so inclined: [STAR-C6PX-673X](https://robertsspaceindustries.com/enlist?referral=STAR-C6PX-673X). Regardless of whose it is, make sure put one in there!
-
 4. Pay for the package and download the launcher. If for some reason you can't find it, the link to download it is [here](https://robertsspaceindustries.com/download). This will download the launcher and not the actual game, so make sure to allocate that 100GB of SSD space and buckle up.
-
 5. While it's downloading, find yourself an org! As per my advice above, here are a couple links! 
-
 	1. [The org Listings](https://robertsspaceindustries.com/community/orgs/listing)
-
 	2. [My Org](https://robertsspaceindustries.com/orgs/WFCP) and [our Discord](https://discord.gg/75wThXRSPB)
 
 	> Alternatively, feel free to google relevant orgs and skip the listings. I actually found my first org through googling!
-
 6. If at all possible, once the game is done downloading, get someone in your org to show you around, or find a youtube video to do so. Here's the one [I used](https://www.youtube.com/watch?v=bNgkQCIEPG4) but **it is a much better experience if you're doing it with other players so I encourage you to find an org and ask someone there to show you the ropes! 
 
 	> If you can't find any that suit your interests, please join my org's discord and ask for a quick intro! We welcome visitors and prospective org members alike, and would be more than happy to give you an intro to the game. 
