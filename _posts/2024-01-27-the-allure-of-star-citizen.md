@@ -139,18 +139,18 @@ First of all, there isn't exatly one main target audience, (barring game develop
 Here's a handy dandy flowchart to help you decide if you should get into it or not. 
 
 >Do you think there are cool things that you'd like to experience in Star citizen? 
->- No?
+>- No
 >	- Don't buy it.
->- Yes?
->	- Are you willing to live with the downsides?
->		- Yes
->			- Buy it.
+>- Yes
+>- Are you willing to live with the downsides?
+>	- Yes
+>		- Buy it.
+>	- No
+>	- Do you have friends that you'd like to play it with or are you planning on joining an org and playing with them?
+>		- Yes 
+>			- Consider buying it
 >		- No
->			- Do you have friends that you'd like to play it with or are you planning on joining an org and playing with them?
->				- Yes 
->					- Consider buying it
->				- No
->					- Wait until it's in a better state.
+>			- Wait until it's in a better state.
 
 
 Those of you have decided to wait or not buy it, I'm glad I was able to help you make a better informed deicision. Those who have decided to buy it, I have a few tips below on how to get the best out of the onboarding experience.
