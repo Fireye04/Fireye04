@@ -236,6 +236,7 @@ I am not affiliated whatsoever with CIG or any related group that would lend add
 
 - Using my referral code I provided above to purchase the game will grant me certain in-game benefits. 
 - I have also invested a notable amount of my own money into star citizen, and have overall positive views about the project's direction going forward.
+- While it won't directly benefit me in terms of money or rewards, I do link to my org and our discord in a couple places as well. 
 
 While these involvments help contextualize this article better, I try my utmost to keep my work as unbiased as it can be. 
 
