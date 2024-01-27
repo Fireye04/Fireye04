@@ -28,8 +28,12 @@
         <h3><center><a href="../../../Pages/Blog.html">To the Blog!</a></center></h3>
         <hr \>
       {% endif %}
-
-      <p>{% toc %}</p>
+      
+      {% if toc %}
+        <h3>Table of Contents</h3>
+        <p>{% toc %}</p>
+        <hr \>
+      {% endif %}
 
       <p>{{ content }}</p>
     </section>
