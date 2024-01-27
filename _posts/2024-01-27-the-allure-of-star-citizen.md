@@ -118,7 +118,7 @@ Every ship that can be purchased with real money is currently, or will eventuall
 
 ### The Pledge store. 
 
-The pledge store is the digital retailer of star citizen, selling game packages, ships, in game items, and even physical merch for real life money. You can also purchase upgrades between ships and only pay the difference between the two. The main focus though, is ships.  A small ship will run you ~60-80 dollars, an medium ship that can be well run solo can head up into the $120-130 range, and bigger ships just scale from there. A sizable multicrew ship can cost you upwards of $300, a huge ship can cost 500 or more, and capital class ships are comfortably over the ghastly $1000 mark.
+The [pledge store](https://robertsspaceindustries.com/pledge) is the digital retailer of star citizen, selling game packages, ships, in game items, and even physical merch for real life money. You can also purchase upgrades between ships and only pay the difference between the two. The main focus though, is ships.  A small ship will run you ~60-80 dollars, an medium ship that can be well run solo can head up into the $120-130 range, and bigger ships just scale from there. A sizable multicrew ship can cost you upwards of $300, a huge ship can cost 500 or more, and capital class ships are comfortably over the ghastly $1000 mark.
 
 ### What the F*@k?!
 
@@ -184,7 +184,7 @@ First off, Welcome to the verse! Here's a quick intro to the game so you can hav
 
 3. Now it's gonna ask you to sign in. Press "Enlist Now" to create an account. 
 
-	> Here is where you can put in referral codes as well, so make sure to find one and plug it in. These will give you additional starting credits (both in the alpha and on full release) and if there's an event on, potentially some other goodies. The most recent couple I can recall are a full set of pretty armor and matching weapons, and a literal CO Hoverquad with a skin & <abbr title="Lifetime Insurance">LTI</abbr>. I'd reccommend asking a friend who already plays (if you have one) for theirs, then looking elsewhere for one. Here's mine if you feel so inclined: STAR-C6PX-673X. Regardless of whose it is, make sure put one in there!
+	> Here is where you can put in referral codes as well, so make sure to find one and plug it in. These will give you additional starting credits (both in the alpha and on full release) and if there's an event on, potentially some other goodies. The most recent couple I can recall are a full set of pretty armor and matching weapons, and a literal CO Hoverquad with a skin & <abbr title="Lifetime Insurance">LTI</abbr>. I'd reccommend asking a friend who already plays (if you have one) for theirs, then looking elsewhere for one. Here's mine if you feel so inclined: [STAR-C6PX-673X](https://robertsspaceindustries.com/enlist?referral=STAR-C6PX-673X). Regardless of whose it is, make sure put one in there!
 
 4. Pay for the package and download the launcher. If for some reason you can't find it, the link to download it is [here](https://robertsspaceindustries.com/download). This will download the launcher and not the actual game, so make sure to allocate that 100GB of SSD space and buckle up.
 
@@ -202,15 +202,67 @@ First off, Welcome to the verse! Here's a quick intro to the game so you can hav
 
 And that's it for onboarding! There's a lot more to this game that I plan to go over in future blog posts, however this is all you need to get started learning the ropes. To sign off, I'll leave a bunch of other resources here at the bottom. Thank you so much for reading; I really appreciate it.
 
-## Resources
+## Closing Notes
+
+Here are just a few more things i'm putting here at the end that might be helpful!
+
+### Resources
 
 
 
+- Game wiki: https://starcitizen.tools/
 
+	- Very helpful, especially with ship research. This is definitley one of my go to sites, that I wholeheartedly reccommend. 
 
+- Ship loadout planner: https://www.erkul.games/live/calculator
+
+	- If you want to see how you can deck out a ship to maximize DPS or just see what quantum drives are the fastest and where you can get them, this site is a godsend. I have had issues with item locations being outdated, though, so keep that in mind.
+
+- Armory loadout planner: https://armory.thespacecoder.space/
+
+	- Allows you to look up armor and weapons' stats and locations
+
+- Item Finder: https://finder.cstone.space/
+
+	- Need to know where you can get an item or a ship? This here is your place.
+
+- Commodity Prices: https://uexcorp.space/
+
+	- The most up to date statistics on commodity prices for hauling. Also has a bunch of other cool features.
+
+- Trading tools: https://sc-trade.tools/home
+
+	- More useful calculators than uexcorp, but not as updated. 
+
+- More Trading tools: https://gallog.co/
+
+	- If the other 2 don't spark joy, here's another resource for similar functionality
+
+- SC tour guide: https://verseguide.com/
+
+	- Helpful tool to familiarize yourself with locations
+
+- Fleet builder: https://hangar.link/fleet/canvas
+
+	- Allows you to make cool graphics of ships. I love this thing.
+
+- Ship stats: https://www.spviewer.eu/
+
+	- Similar to erkul, but less for customizing and more for preformance analytics
+
+Don't concern yourself too much with these to start, but they do get very helpful later in game once you really get into it. 
+
+### Disclaimers
+
+I am not affiliated whatsoever with CIG or any related group that would lend additional bias to this article. This is an independent assessment of the Star Citizen project from an outsider perspective. Still, I would like to cite aspects of my situation that could contribute to any relevant biases that I may conciously or unconciously hold so that you may read this article with them in mind. 
+
+- Using my referral code I provided above to purchase the game will grant me certain in-game benefits. 
+- I have also invested a notable amount of my own money into star citizen, and have overall positive views about the project's direction going forward.
+
+While these involvments help contextualize this article better, I try my utmost to keep my work as unbiased as it can be. 
 
 ### Support me
 
-If you think this post was helpful and you want to support me doing more stuff like this, you can find a link to my ko-fi [here](https://ko-fi.com/fireye). This will likely go towards helping me buy more coffee, which is essential in the creation of things like this. Thanks so much again for reading, have a great day, and I hope to see you in the verse.
+If you think this post was helpful and you want to support me doing more stuff like this, you can find a link to my ko-fi [here](https://ko-fi.com/fireye). Every donation, regardless of amount, helps my work immensely and will likely go towards buying more coffee, which is essential in the creation of things like this. Thanks so much again for reading, have a great day, and I hope to see you in the verse.
 
 ~ Kai
