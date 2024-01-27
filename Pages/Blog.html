@@ -27,6 +27,8 @@
             <div class="indent">
                 <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <small><small> {{ post.date | date_to_string: "ordinal", "US" }}</small></small></h3> 
                 <p class="indent"><strong>Description:</strong> {{ post.description }}</p>
+                {% assign wordcount = post.content |  strip_html | split: ' ' | size %}
+                <p class="indent"><strong>Word Count:</strong> {{ wordcount }}</p>
 
                 <blockquote class="indent">"{{post.excerpt}}"</blockquote>
             </div>
