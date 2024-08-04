@@ -1,9 +1,7 @@
 window.onload = function () {
     var a = document.getElementById("they");
 
-    const h = document.querySelectorAll('h1,h2,h3,h4');
     const b = document.querySelector('body');
-    const p = document.querySelectorAll('p');
     let set = false;
 
     a.onclick = function () {
@@ -11,28 +9,39 @@ window.onload = function () {
             alert(
                 "Hey look you found an easter egg! " +
                 "You can click the same spot to spare your eyes."
-            )
-            for (let i = 0; i < h.length; i++) {
-                h[i].style.color = "#FCF434";
-            }
+            );
+            b.style.background = ("repeating-linear-gradient(" +
+                "0deg, " +
+                "#000000, #000000 50px, " +
+                "#2C2C2C 50px, #2C2C2C 100px, " +
+                "#9C59D1 100px, #9C59D1 150px, " +
+                "#FFFFFF 150px, #FFFFFF 200px, " +
+                "#FCF434 200px, #FCF434 250px, " +
+                "#000000 250px, #000000 350px," +
+                "#0038A8 350px, #0038A8 430px," +
+                "#9B4F96 430px, #9B4F96 470px," +
+                "#D60270 470px, #D60270 550px," +
+                "#000000 550px, #000000 600px)"
+            );
 
-            b.style.background = "#9C59D1";
+            var styles = "@keyframes bg-scrolling-reverse {" +
+                "100% {background-position: 0px " + b.clientHeight.toString() + "px;}}";
 
-            for (let i = 0; i < p.length; i++) {
-                p[i].style.color = "#2C2C2C";
-            }
+            // alert(styles);
+            var styleSheet = document.createElement("style")
+            styleSheet.textContent = styles
+            document.head.appendChild(styleSheet)
+
+            b.style.animation = "bg-scrolling-reverse 15s infinite";
+
+            b.style.animationTimingFunction = "linear";
+
             set = true;
         } else {
-            for (let i = 0; i < h.length; i++) {
-                h[i].style.color = "";
-
-            }
-
             b.style.background = "";
+            b.style.animation = "";
+            b.style.animationTimingFunction = "";
 
-            for (let i = 0; i < p.length; i++) {
-                p[i].style.color = "";
-            }
             set = false;
         }
 
