@@ -22,17 +22,30 @@
 
     <p>Howdy! I'm Kai, and this is my stupid website.</p>
 
-    <p><small><em>Last updated: July 31st, 2024</em></small></p>
+    <p><small><em>Last updated: September 14th, 2024</em></small></p>
 
     {% include kofi.html %}
 
     <h2>Guestbook!</h2>
 
-    <center><table class="guestbook"></table></center>
+    <center><p class="gbload">Loading content...</p></center>
 
+    <div class="gbhide" hidden>
+      <center><table class="guestbook"></table></center>
+      
+      <div class="gbform" hidden>
+        <p style="display: inline-block;">Name</p>
+        <input class="gbName">
+        <p style="display: inline-block;">Message</p>
+        <input class="gbMessage">
+        <button onclick="guestbookSubmit()">Submit Entry!</button>
+      </div>
+      
+      <center><button class="gbutton" onclick="guestbookClick()">Leave a message!</button></center>
+    </div>
     <h2>Directory!</h2>
     <ul>
-      <li>
+      <li>  
         <h3><a href="Pages/Blog.html">My Stupid Blog</a></h3> (Where I write things about games and stuff)
       </li>
       <!-- <li>
