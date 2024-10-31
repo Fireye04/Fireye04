@@ -48,14 +48,17 @@ async function initGuestbook(){
         
         const columnHeaders = document.createElement('tr');
         columnHeaders.innerHTML = `<th>Name</th>
-    <th>Message</th>`;
+        <th>Message</th>
+        <th>Timestamp</th>`;
         table.appendChild(columnHeaders);
 
         // add table data rows
-        for (let i = 0; i < jsonResp.length; i++) {
+        for (let i = jsonResp.length-1; i >= 0; i--) {
+            let dt = formatDatetime(new Date(Number(jsonResp[i]["timestamp"])))
             const tableRow = document.createElement('tr');
             tableRow.innerHTML = `<td>${jsonResp[i]["name"]}</td>
-    <td>${jsonResp[i]["message"]}</td>`;
+    <td>${jsonResp[i]["message"]}</td>
+    <td>${dt}</td>`;
             table.appendChild(tableRow);
         }
 
@@ -64,6 +67,12 @@ async function initGuestbook(){
       }
 
 };
+
+function formatDatetime(date) {
+    let dt = date.toString().split(" ")
+    let time = dt[4].split(":")
+    return time[0] + ":" + time[1] + ", " + dt[1] + " " + dt[2] + ", " + dt[3];
+}
 
 
 function guestbookClick() {
@@ -104,13 +113,14 @@ async function guestbookSubmit() {
         const table = document.getElementsByClassName('guestbook')[0];
         const tableRow = document.createElement('tr');
         tableRow.innerHTML = `<td>${Name}</td>
-    <td>${Message}</td>`;
+    <td>${Message}</td>
+    <td>${formatDatetime(new Date())}</td>`;
         table.appendChild(tableRow);
         
     } catch (err) {
-        document.getElementById('content').innerText = err.message;
-        return;
+        alert(err.message);
       }
+    guestbookClick();
 
     
 }
