@@ -144,8 +144,30 @@ ol li {
     border-spacing: 50px 0;
 } 
 
+.gbutton {
+    margin-bottom: 20px;
+}
+
+.gblabel {
+    display: inline;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
 .gbscroll {
     overflow-x: auto;
+}
+
+.gbform {
+    margin-bottom: 20px;
+}
+
+.gbform input {
+    margin-bottom: 20px;
+}
+
+.gbform textarea {
+    margin-bottom: 20px;
 }
 
 @media (max-width: 635px) {
@@ -154,6 +176,10 @@ ol li {
     }
     .dt {
         display: none;
+    }
+    
+    .gbMessage {
+        height:50px;
     }
 }
 
