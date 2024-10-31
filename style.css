@@ -149,6 +149,9 @@ ol li {
 }
 
 @media (max-width: 635px) {
+    .guestbook {
+        border-spacing: 20px;
+    }
     .dt {
         display: none;
     }
