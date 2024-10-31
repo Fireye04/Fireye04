@@ -172,6 +172,10 @@ ol li {
         display: none;
     }
 
+    .gbform textarea {
+        width:80%;
+    }
+
 }
 
 /*########### GUESTBOOK #############*/
