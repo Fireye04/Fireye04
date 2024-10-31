@@ -166,6 +166,9 @@ ol li {
     margin-bottom: 20px;
 }
 
+.gbform textarea {
+    margin-bottom: 20px;
+}
 
 @media (max-width: 635px) {
     .guestbook {
@@ -176,7 +179,7 @@ ol li {
     }
     
     .gbMessage {
-        columns: 6;
+        height:50px;
     }
 }
 
