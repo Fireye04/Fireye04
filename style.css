@@ -168,6 +168,7 @@ ol li {
 
 .gbMessage {
     width: 80%;
+    height:30px;
 }
 
 @media (max-width: 635px) {
@@ -177,9 +178,9 @@ ol li {
     .dt {
         display: none;
     }
-    .gbmessage {
-        width: 100%;
-        height:30px;
+    .gbMessage {
+        width: auto;
+        height:50px;
     }
 }
 
