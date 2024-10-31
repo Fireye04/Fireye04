@@ -146,7 +146,6 @@ ol li {
 
 .gbscroll {
     overflow-x: auto;
-    min-width: 334px;
 }
 
 @media (max-width: 635px) {
