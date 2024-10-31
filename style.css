@@ -157,7 +157,7 @@ ol li {
     overflow-x: auto;
 }
 
-.gbform {
+* {
     border-style: solid;
     border-color: #303030;
     border-width: 2px;
