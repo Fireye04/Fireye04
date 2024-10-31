@@ -22,7 +22,7 @@
 
     <p>Howdy! I'm Kai, and this is my stupid website.</p>
 
-    <p><small><em>Last updated: July 31st, 2024</em></small></p>
+    <p><small><em>Last updated: October 30th, 2024</em></small></p>
 
     {% include kofi.html %}
 
@@ -346,6 +346,26 @@
       which is always a win.
     </p>
 
+    <h2>Guestbook!</h2>
+    <p>Thank you for making it this far! Please feel free to sign my guestbook! Fair warning, I will delete crass and hateful comments without remorse <3</p>
+
+    <center><p class="gbload">Loading content...</p></center>
+
+    <div class="gbhide" hidden>
+      <center><table class="guestbook"></table></center>
+
+      <div class="gbform" hidden>
+        <p style="display: inline-block;">Name</p>
+        <input class="gbName">
+        <p style="display: inline-block;">Message</p>
+        <input class="gbMessage">
+        <button onclick="guestbookSubmit()">Submit Entry!</button>
+        <p><small><center>Please don't bobby tables my ass I beg you</center></small></p>
+      </div>
+      
+      <center><button class="gbutton" onclick="guestbookClick()">Leave a message!</button></center>
+    </div>
+
     <hr />
 
     <h2><u>Footer</u> <small><small><small>(if you couldn't tell)</small></small></small></h2>
@@ -364,7 +384,7 @@
         target="_blank">licensed</a> under <a href="http://www.wtfpl.net/" target="_blank">WTFPL</a>, just in case you
       want to steal my objectively worse version instead of the source itself.</p>
 
-    <script src="script.js"></script>
+    <script src="script.js" crossorigin="anonymous"></script>
   </div>
 </body>
 
