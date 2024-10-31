@@ -352,15 +352,17 @@
     <center><p class="gbload">Loading content...</p></center>
 
     <div class="gbhide" hidden>
-      <center><table class="guestbook"></table></center>
+      <div class="gbscroll">
+        <center><table class="guestbook"></table></center>
+      </div>
 
       <div class="gbform" hidden>
-        <p style="display: inline-block;">Name</p>
-        <input class="gbName">
-        <p style="display: inline-block;">Message</p>
-        <input class="gbMessage">
-        <button onclick="guestbookSubmit()">Submit Entry!</button>
-        <p><small><center>Please don't bobby tables my ass I beg you</center></small></p>
+        <center><p class="gblabel">Name</p></center>
+        <center><input class="gbName"></center>
+        <center><p class="gblabel">Message</p></center>
+        <center><textarea class="gbMessage"></textarea></center>
+        <center><button onclick="guestbookSubmit()">Submit Entry!</button></center>
+        <center><p><small>Please don't bobby tables my ass I beg you</small></p></center>
       </div>
       
       <center><button class="gbutton" onclick="guestbookClick()">Leave a message!</button></center>
