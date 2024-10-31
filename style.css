@@ -144,8 +144,27 @@ ol li {
     border-spacing: 50px 0;
 } 
 
+.gbutton {
+    margin-bottom: 20px;
+}
+
+.gblabel {
+    display: inline;
+    margin-bottom: 0px;
+}
+
 .gbscroll {
     overflow-x: auto;
+}
+
+.gbform {
+    border-style: solid;
+    border-color: #303030;
+    border-width: 2px;
+}
+
+.gbform input {
+    margin-bottom: 20px;
 }
 
 @media (max-width: 635px) {
