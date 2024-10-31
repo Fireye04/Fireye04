@@ -157,11 +157,8 @@ ol li {
     overflow-x: auto;
 }
 
-.gbhide {
+.gbform {
     margin-bottom: 20px;
-    border-style: solid;
-    border-color: #303030;
-    border-width: 2px;
 }
 
 .gbform input {
