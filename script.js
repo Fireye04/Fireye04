@@ -49,7 +49,7 @@ async function initGuestbook(){
         const columnHeaders = document.createElement('tr');
         columnHeaders.innerHTML = `<th>Name</th>
         <th>Message</th>
-        <th>Timestamp</th>`;
+        <th class="dt">Timestamp</th>`;
         table.appendChild(columnHeaders);
 
         // add table data rows
@@ -58,7 +58,7 @@ async function initGuestbook(){
             const tableRow = document.createElement('tr');
             tableRow.innerHTML = `<td>${jsonResp[i]["name"]}</td>
     <td>${jsonResp[i]["message"]}</td>
-    <td>${dt}</td>`;
+    <td class="dt">${dt}</td>`;
             table.appendChild(tableRow);
         }
 
@@ -114,7 +114,7 @@ async function guestbookSubmit() {
         const tableRow = document.createElement('tr');
         tableRow.innerHTML = `<td>${Name}</td>
     <td>${Message}</td>
-    <td>${formatDatetime(new Date())}</td>`;
+    <td class="dt">${formatDatetime(new Date())}</td>`;
         table.appendChild(tableRow);
         
     } catch (err) {
