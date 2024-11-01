@@ -95,6 +95,11 @@ async function guestbookSubmit() {
     const Message = document.getElementsByClassName("gbMessage")[0].value.toString();
     document.getElementsByClassName("gbMessage")[0].value = "";
 
+    if (Name.length === 0 || Message.length === 0) {
+        alert("Empty field detected :(")
+        return;
+    }
+
     const body = {
         Name: Name,
         Message:Message
