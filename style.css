@@ -10,13 +10,14 @@
 
 body {
     background: #0d1117;
-    color: #ffffff;
+    color: #c9d1d9;
     height: 300%;
 }
 
 a:link {
     color: #58a6ff
 }
+
 
 a:visited {
     color: #8e96f0
@@ -127,6 +128,32 @@ ol li {
 /*########### LINKS #############*/
 
 
+/*########### BUTTONS #############*/
+
+button {
+    border:solid;
+    border-width: 1px;
+    border-radius:2px;
+    background-color:#8992f8 ;
+    color:#0d1117;
+    padding:10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration:0.3s;
+}
+
+button:hover {
+    background-color: #2e3a4b;
+    color: #8E96F0;
+    padding:10px 20px;
+    cursor: pointer;
+}
+
+
+/*########### BUTTONS #############*/
+
+
 /*########### GUESTBOOK #############*/
 
 .guestbook {
@@ -171,7 +198,7 @@ ol li {
     .dt {
         display: none;
     }
-    
+
     .gbform textarea {
         width:80%;
     }
