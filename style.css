@@ -131,10 +131,11 @@ ol li {
 /*########### BUTTONS #############*/
 
 button {
-    border:none;
+    border:solid;
+    border-width: 1px;
     border-radius:2px;
-    background-color: #1c2532;
-    color:#c9d1d9;
+    background-color:#8992f8 ;
+    color:#0d1117;
     padding:10px 15px;
     text-align: center;
     text-decoration: none;
@@ -146,7 +147,9 @@ button:hover {
     background-color: #2e3a4b;
     color: #8E96F0;
     padding:10px 20px;
+    cursor: pointer;
 }
+
 
 /*########### BUTTONS #############*/
 
