@@ -2,5 +2,8 @@
 title: "Kai's Stupid Website"
 plugins: ["jekyll-toc"]
 baseurl: ""
+
+collections-dir: collections
 collections:
   - blog
+
