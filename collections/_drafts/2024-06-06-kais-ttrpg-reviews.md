@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Kai's TTRPG Reviews"
 description: "An intro to my series on TTRPG analysis"
 toc: true
