@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "My concerns with Life is Strange: Double Exposure"
 description: "Why Double exposure is balancing on the line between worthy sequel and cash grab, and why I think it's fighting an uphill battle."
 toc: true

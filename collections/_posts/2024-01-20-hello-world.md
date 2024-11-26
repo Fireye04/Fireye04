@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Hello World!"
 description: "A quick test of jekyll's blog systems, and a little hello world to static site generation!"
 ---
