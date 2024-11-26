@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "The Allure of Star Citizen: A Buyer's Guide"
 description: "A curious individual's introduction to the star citizen project"
 toc: true
