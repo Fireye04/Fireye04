@@ -2,6 +2,7 @@
 layout: blog
 title:  "Hello World!"
 description: "A quick test of jekyll's blog systems, and a little hello world to static site generation!"
+date: 2024-01-20
 ---
 
 This is an initial test of a blog system! I'm writing this in markdown and let's see if it gets generated well through jekyll! This is the first paragraph.

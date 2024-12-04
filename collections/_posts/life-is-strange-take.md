@@ -3,6 +3,7 @@ layout: blog
 title:  "My concerns with Life is Strange: Double Exposure"
 description: "Why Double exposure is balancing on the line between worthy sequel and cash grab, and why I think it's fighting an uphill battle."
 toc: true
+date:2024-06-25 
 ---
 
 Life is Strange: Double Exposure is the first genuine sequel to 2015's "Life is Strange", in that others have been made, but this is the first to feature Max Caufield, the original's beloved protagonist, once again. This is a bold choice, as max's story was pretty clearly complete at the end of the first game, yet here she is once again taking up both the mantle of protagonist and, more concerningly, the use of her powers. I'm not overly impressed with how deck nine has handled the life is strange franchise after having taken it from don't nod, and now we observe their attempt to alter the canon of the first story. While this isn't necessarily a terrible thing, it does make me concerned for the direction of the game. Let me explain why.

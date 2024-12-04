@@ -3,6 +3,7 @@ layout: blog
 title:  "The Allure of Star Citizen: A Buyer's Guide"
 description: "A curious individual's introduction to the star citizen project"
 toc: true
+date: 2024-01-27
 ---
 
 Star Citizen is one of the most incredible games to exist both in planned scope and what already exists for people to play. It's also one of the most broken, infuriating games I've ever played. And yet I continue to play it. What even is Star citizen? What pros and cons are there to the game? How does the monetization system work? Why do I play it? And more importantly, should you subject yourself to Star Citizen as well? 
