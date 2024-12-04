@@ -5,5 +5,7 @@ baseurl: ""
 
 collections-dir: collections
 collections:
-  - blog
+  posts:
+    permalink: /:collection/:name
+  changelog:
 
