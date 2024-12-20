@@ -1,5 +1,4 @@
 ---
 title: Test
-date: 2024-12-03
 ---
 I needed another post to test stuff

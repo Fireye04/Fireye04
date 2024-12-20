@@ -21,8 +21,13 @@
     </h1>
 
     <p>Howdy! I'm Kai, and this is my stupid website.</p>
+      
+      {{site.posts}}
+      {% for item in site.changelog %}
+        <p>{{item.content}}</p>
+      {% endfor %}
 
-    <p><small><em>Last updated: December 3rd, 2024</em></small></p>
+      <p><small><em>Last updated: </em></small></p>
 
     {% include kofi.html %}
 

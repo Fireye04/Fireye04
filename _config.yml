@@ -3,7 +3,10 @@ title: "Kai's Stupid Website"
 plugins: ["jekyll-toc"]
 baseurl: ""
 
-collections-dir: collections
+collections-dir: Col
 collections:
-  - blog
-
+  posts:
+    output: true
+    permalink: /:collection/:name
+  changelog:
+    output: true
