@@ -21,8 +21,13 @@
     </h1>
 
     <p>Howdy! I'm Kai, and this is my stupid website.</p>
+      
+      {{site.posts}}
+      {% for item in site.changelog %}
+        <p>{{item.content}}</p>
+      {% endfor %}
 
-    <p><small><em>Last updated: November 25th, 2024</em></small></p>
+      <p><small><em>Last updated: </em></small></p>
 
     {% include kofi.html %}
 
@@ -105,6 +110,25 @@
 
     <br>
 
+    <h2>Digital Neighbors!</h2>
+      <p>A list of cool websites that are friends with this one! (What does that mean? Not sure!)</p>
+
+      <ul>
+        <li><a href="https://theblipbloop.github.io/" target="_blank">theblipbloop.github.io</a></li>
+        <li>That's it for now!</li>
+      </ul>
+
+      <p>Let me know if you'd like to become digital neighbors! I'd love to expand the network above as much as I can &lt;3</p>
+
+    <h2>My favorite web pages!</h2>
+      <p>Here are some of my favorite webpages (If you own one of these, Please let me know if you'd like to be digital neightbors or for me to take it off the list)
+
+      <ul>
+          <li><a href="https://neal.fun" target="_blank">Neal.fun</a></li>
+          <li>That's it for now!</li>
+      </ul>
+
+
     <h2>Stupid quotes? For no good reason? Don't mind if I do.</h2>
 
     <blockquote>
@@ -154,7 +178,7 @@
 
     <p>Inspired by the geniuses behind <a href="https://perfectmotherfuckingwebsite.com/"
         target="_blank">perfectmotherfuckingwebsite.com</a> and those that came before.</p>
-Also
+
     <p>Also thanks to the person known as "doodle" on my uni's cs discord, who had a <a href="https://doodleta.co/"
         target="_blank">similar site</a> up for themselves, which in turn inspired me to make my own spin-off. Go check
       them out! :)</p>
