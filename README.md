@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hiya! 
+- Check out my (website)[https://fireye.coffee]!
+- I make games!
+- Arch linux
+- Godot
+- FOSS everywhere possible
+- They/Them
 
 <!--
 **Fireye04/Fireye04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
