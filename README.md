@@ -1,5 +1,5 @@
 ## Hiya! 
-- Check out my (website)[https://fireye.coffee]!
+- Check out my [website](https://fireye.coffee)!
 - I make games!
 - Arch linux
 - Godot
