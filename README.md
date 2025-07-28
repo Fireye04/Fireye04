@@ -6,3 +6,8 @@
 - FOSS everywhere possible
 - They/Them
 - [Join my webring](https://gdt.fireye.coffee)! Indie web forever!
+
+## Currently contributing to
+- Godot Dialogue Manager
+- Godot engine
+- Niri WM
