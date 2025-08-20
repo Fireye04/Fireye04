@@ -1,7 +1,7 @@
 ## Hiya! 
 - Check out my [website](https://fireye.coffee)!
 - I make games!
-- Arch linux ([Steal my look!](https://github.com/Fireye04/dotfiles))
+- NixOS ([Steal my look!](https://github.com/Fireye04/nix-dotfiles))
 - Godot
 - FOSS everywhere possible
 - They/Them
