@@ -8,6 +8,6 @@
 - [Join my webring](https://gdt.fireye.coffee)! Indie web forever!
 
 ## Currently contributing to
-- [Godot Dialogue Manager](github.com/nathanhoad/godot_dialogue_manager/)
+- [Godot Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager/)
 - [Godot engine](https://github.com/godotengine/godot)
 - [Niri WM](https://github.com/YaLTeR/niri)
